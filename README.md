@@ -1,6 +1,6 @@
 # Visual Identity
 
-Clube Open Source visual identity files. All files contained here are licensed under CC-BY-4.0, see [COPYING](https://github.com/opensourceunipampa/identity/blob/main/COPYING), unless otherwise especified.
+Clube Open Source visual identity files. All files contained here are licensed under CC-BY-4.0, see [COPYING](https://github.com/opensourceunipampa/identity/blob/main/COPYING), unless otherwise specified.
 
 ## Images
 
